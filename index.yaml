@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  nginx:
+  - apiVersion: v2
+    appVersion: 1.31.1
+    created: "2026-05-30T20:12:38.303864-04:00"
+    description: A simple Nginx chart
+    digest: a6748778a3f6befea5744579000244335c9de3098a3c0569df3f3466b18a6a08
+    name: nginx
+    type: application
+    urls:
+    - nginx-0.1.0.tgz
+    version: 0.1.0
+generated: "2026-05-30T20:12:38.303268-04:00"
